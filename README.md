@@ -12,6 +12,6 @@ They are a bit messy due to the nature of serving different purposes, being crea
 * _Legacy Projects_. Random repositories where I have dumped code I wrote before I started using GitHub. Project name in CamelCase, varying degree of just about everything in these. Largely not structured in a sensible way.
 * _Other_. Random repos with no common thread.
   * Haydn-Martin.github.io - new DS blog
-  * Perpetual_Prudence - old WordPress personal finance/investing blog custom code and analysis in R
+  * Perpetual_Prudence_Analysis - old personal finance/investing blog analysis in R
   * Prob_Stat_ML - playign around with theory implementation in python and R
 * _Private_. Either containing PI, not ready, or top secret for undisclosed reasons. The less said about these the better...
